@@ -35,10 +35,10 @@
   <properties>
      <maven.compiler.source>1.8</maven.compiler.source>
       <maven.compiler.target>1.8</maven.compiler.target>
-      <sonar.projectKey>MonopolySept8</sonar.projectKey>   
-      <sonar.organization>jononekin</sonar.organization>
+      <sonar.projectKey>MonopolySonnarcloud</sonar.projectKey>   
+      <sonar.organization>epelde3</sonar.organization>
       <sonar.host.url>https://sonarcloud.io</sonar.host.url>  
-      <sonar.login>81a08424362a8029f028324821a72c8f207530ae</sonar.login> 
+      <sonar.login>2bc16381395a40724ea65617de7ce2dc9948a212</sonar.login> 
     </properties>
 
   <dependencies>
