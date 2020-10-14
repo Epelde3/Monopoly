@@ -1,6 +1,6 @@
 addons:
   sonarcloud:
-    organization: "Epelde3"
+    organization: "epelde3"
     token: "2bc16381395a40724ea65617de7ce2dc9948a212" #encrypted value of your token
 
 script:
