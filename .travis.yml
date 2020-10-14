@@ -1,6 +1,6 @@
 addons:
 		sonarcloud:
-				organization:	"epelde3"
+				organization:	"Epelde3"
 				token: "2bc16381395a40724ea65617de7ce2dc9948a212"	
 script:
 		#	the	following	command	line	builds	the	project,	runs	the	tests	with	coverage
